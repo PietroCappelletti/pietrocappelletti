@@ -14,14 +14,8 @@
 ### Spotify Playing 🎧
 [<img src="https://novatorem-seven-eosin.vercel.app/api/spotify-playing" alt="PietroCappelletti Spotify Playing" width="350" />](https://open.spotify.com/user/lw182b39bwdkjaapv6wq9bywz)
 
-### Connect with me:
-
-[<img align="left" alt="pietrocappelletti.github.com" width="22px" src="https://pietrocappelletti.github.io/" />][website]
-[<img align="left" alt="cappellettipietro | Instagram" width="22px" src="https://www.instagram.com/cappellettipietro/" />][instagram]
-
 <br />
 <br />
-
 
 ### Languages and Tools:
 
