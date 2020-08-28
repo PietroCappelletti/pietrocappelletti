@@ -28,12 +28,12 @@
 
 <br />
 
+### Spotify Playing 🎧
+[![Spotify](https://novatorem-seven-eosin.vercel.app/api/spotify)](https://open.spotify.com/user/lw182b39bwdkjaapv6wq9bywz)
+
 <img align="left" alt="PietroCappelletti's Github Stats" src="https://github-readme-stats-snowy-nine.vercel.app/api?username=PietroCappelletti&show_icons=true&hide_border=true" />
   
  <br />
-
-### Spotify Playing 🎧
-[![Spotify](https://novatorem-seven-eosin.vercel.app/api/spotify)](https://open.spotify.com/user/lw182b39bwdkjaapv6wq9bywz)
 
 [website]: https://pietrocappelletti.github.io/
 [instagram]: https://www.instagram.com/cappellettipietro/
