@@ -11,12 +11,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
-### Spotify Playing 🎧
-[![Spotify](https://novatorem-seven-eosin.vercel.app/api/spotify)](https://open.spotify.com/user/lw182b39bwdkjaapv6wq9bywz)
-
-<br />
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -35,9 +29,10 @@
 
 <br />
 <br />
-
   <img align="left" alt="PietroCappelletti's Github Stats" src="https://github-readme-stats-snowy-nine.vercel.app/api?username=PietroCappelletti&show_icons=true&hide_border=true" />
 
+### Spotify Playing 🎧
+[![Spotify](https://novatorem-seven-eosin.vercel.app/api/spotify)](https://open.spotify.com/user/lw182b39bwdkjaapv6wq9bywz)
 
 [website]: https://pietrocappelletti.github.io/
 [instagram]: https://www.instagram.com/cappellettipietro/
