@@ -1,15 +1,14 @@
 ### Hi there, I'm Pietro Cappelletti [website] 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/PietroCappelletti?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/CappellettiPie?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/CappellettiPie?label=Follow&style=social)
 
 ## I'm am student, programmer and dreamer
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on some projects, try visit my [website][website]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2020 Goals: Make some good projects
+- ⚡ Fun fact: I love music
 
 ### Languages and Tools:
 
