@@ -1,7 +1,7 @@
 ### Hi there, I'm Pietro Cappelletti [website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+![GitHub followers](https://img.shields.io/github/followers/PietroCappelletti?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/CappellettiPie?style=social)
 
 ## I'm am student, programmer and dreamer
 
@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="PietroCappelletti Spotify Playing" width="350" />](https://open.spotify.com/user/lw182b39bwdkjaapv6wq9bywz)
+[<img src="https://novatorem-seven-eosin.vercel.app/api/spotify-playing" alt="PietroCappelletti Spotify Playing" width="350" />](https://open.spotify.com/user/lw182b39bwdkjaapv6wq9bywz)
 
 ### Connect with me:
 
