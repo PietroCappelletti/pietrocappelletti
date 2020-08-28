@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Spotify Playing 🎧
-<img src="https://novatorem-seven-eosin.vercel.app/api/spotify-playing" alt="PietroCappelletti Spotify Playing" width="350" />(https://open.spotify.com/user/lw182b39bwdkjaapv6wq9bywz)
+[![Spotify](https://novatorem-seven-eosin.vercel.app/api/spotify)](https://open.spotify.com/user/lw182b39bwdkjaapv6wq9bywz)
 
 <br />
 <br />
