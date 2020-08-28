@@ -42,7 +42,7 @@
 <br />
 <br />
 
-  <img align="left" alt="PietroCappelletti's Github Stats" src="https://github-readme-stats.PietroCappelletti.vercel.app/api?username=PietroCappelletti&show_icons=true&hide_border=true" />
+  <img align="left" alt="PietroCappelletti's Github Stats" src="https://github-readme-stats-snowy-nine.vercel.app/api?username=PietroCappelletti&show_icons=true&hide_border=true" />
 
 
 [website]: https://pietrocappelletti.github.io/
