@@ -5,7 +5,7 @@
 
 ## I'm a student, programmer and dreamer
 
-- 🔭 I’m currently working on some projects, try visit my [website][website]!
+- 🔭 I’m currently working on some projects, visit my [website][website]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Make some good projects
 - ⚡ Fun fact: I love music
